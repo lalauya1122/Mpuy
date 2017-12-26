@@ -1,9 +1,15 @@
 # PUY
 
-/ngit clone https://github.com/mkhadaffy/Mpuy
-/ncd Mpuy
-/npip2 install requests
-/npip2 install wikipedia
-/npip2 install bs4
-/npip2 install BeautifulSoup
-/npython puyself.py
+git clone https://github.com/mkhadaffy/Mpuy
+
+cd Mpuy
+
+pip2 install requests
+
+pip2 install wikipedia
+
+pip2 install bs4
+
+pip2 install BeautifulSoup
+
+python puyself.py
